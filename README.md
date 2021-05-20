@@ -7,7 +7,7 @@ An open gallery for people to share random photos.
 - [x] Create a form to upload photos (png, jpg) 
  - [x] Setting up the backend (Firebase)  
 - [x] Store the photos on Firebase  
-- [ ] Style the gallery display  
+- [x] Style the gallery display  
 - [ ] Adding animation
 - [ ]  Adding authentication
 - [ ] Adding personal profil option
