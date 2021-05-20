@@ -18,7 +18,7 @@ An open gallery for people to share random photos.
 ## Version 1.0 overview
 - The user uploads a photo by selecting the "+" button.
 - The new photo is displayed in a grid layout with all previous uploads.
-- To sho the original photo, the user can select any photo from the gallery.
+- To show the original photo, the user can select any photo from the gallery.
 <p float="left">
  <h3>Overview of "OurPhoto" home page</h3>
   <img src="screenshots/gallery_overview.png" width="800" />
