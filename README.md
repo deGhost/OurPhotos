@@ -1,5 +1,5 @@
 
-# OurFotos
+# OurPhotos
 An open gallery for people to share random photos.
 
 ### Todo List
