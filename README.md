@@ -3,12 +3,14 @@
 An open gallery for people to share random photos.
 
 ### Todo List
+Part One
 - [x] Add the readMe   
 - [x] Create a form to upload photos (png, jpg) 
  - [x] Setting up the backend (Firebase)  
 - [x] Store the photos on Firebase  
 - [x] Style the gallery display  
-- [ ] Adding animation
+- [x] Adding animation
+Part Two
 - [ ]  Adding authentication
 - [ ] Adding personal profil option
 
